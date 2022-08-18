@@ -4,7 +4,7 @@ import { GiCakeSlice, GiGalaxy, GiLipstick } from "react-icons/gi";
 
 export const topics = [
   {
-    name: "development",
+    name: "coding",
     icon: <BsCode />,
   },
   {
